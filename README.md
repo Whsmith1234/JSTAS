@@ -9,7 +9,7 @@ printf("Hello World!");
 ## Input
 ```js
 function continue(input){
-printf("Hello "+ input);
+  printf("Hello "+ input);
 }
 input("Enter your name","continue");
 ```
