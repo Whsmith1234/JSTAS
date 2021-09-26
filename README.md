@@ -24,3 +24,7 @@ line(x,y);
 var x = [1,2,3,3,4,2,3,2,1];
 histogram(x);
 ```
+## Show results on page
+```js
+show();
+```
