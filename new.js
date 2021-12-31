@@ -98,10 +98,6 @@ function input(prompt, callback){
         }
          
         <\/script>
-
-        <style>
-        
-        </style>
         <\/body>
         <\/html>`);
         
@@ -131,7 +127,6 @@ function input(prompt, callback){
      outputs[output]+=`${string}<br>`;
  }
  var onkeydown = (function (ev) {
-     //console.log(window.event.keyCode);
   var key;
   var isShift;
   if (window.event) {
