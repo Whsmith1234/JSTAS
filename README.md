@@ -1,6 +1,6 @@
 # JSTAS
 stats with js in a notebook format
-https://jstas.netlify.app
+https://jstats.netlify.app
 
 ## Printing to the page
 ```js
